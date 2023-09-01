@@ -1,0 +1,28 @@
+    <div class="titulo">
+        <h1 style="font-size: 40px;">Control De Versiones</h1>
+    </div>
+
+    <div class="introduccion">
+        <h2 style="font-size: 25px;">Introduccion</h2>
+        <p class="parrafos">Contenido de la introduccion</p> 
+    </div>
+
+
+    <div class="S1">
+        <h2 style="font-size: 25px;">* Sistema de control de versiones locales</h2>
+        <p class="parrafos" style="font-size: 15px;">
+            El método común de copiar archivos a otro directorio para el control de versiones es sencillo 
+            pero propenso a errores, como guardar en el lugar equivocado. Para solucionar esto, se crearon VCS locales, 
+            con bases de datos para registrar los cambios en los archivos.
+        </p> 
+    </div>
+
+    <div class="S2">
+        <h2 style="font-size: 25px;">* Sistema de control de versiones centralizados</h2>
+        <p class="parrafos">Contenido de la introduccion</p> 
+    </div>
+
+    <div class="S3">
+        <h2 style="font-size: 25px;">* Sistema de control de versiones distribuidos</h2>
+        <p class="parrafos">Contenido de la introduccion</p> 
+    </div>
